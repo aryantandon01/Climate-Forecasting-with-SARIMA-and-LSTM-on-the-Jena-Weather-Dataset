@@ -6,11 +6,11 @@ This repository contains the code and resources for the Climate Change Predictor
 
 ## Submitted by:
 
-1. Aabir Datta - 19BCE10062
+1. Aryan Tandon - 19BAI10148
 2. Uday Agarwal - 19BAI10147
 3. Abdul Raziq Khan - 19BCE10135
 4. Parv Bhargava - 19BAI10116
-5. Aryan Tandon - 19BAI10148
+5. Aabir Datta - 19BCE10062
 6. Vimal Tiwari - 19BCG10054
 7. Govit Khasare - 19MIM10094
 8. Mriganka Shekhar Das - 19BOE10053
