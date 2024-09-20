@@ -1,4 +1,4 @@
-# Climate Change Predictor Using Time Series Forecasting
+# Greensight - A Climate Change Predictor
 
 ## Project Overview
 
