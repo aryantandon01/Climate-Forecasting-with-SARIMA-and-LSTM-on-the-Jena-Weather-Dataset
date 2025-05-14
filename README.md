@@ -52,7 +52,7 @@ A hybrid time series modeling project exploring **statistical** and **deep learn
 
 ## 📦 Tech Stack
 
-- **Python 3.10**
+- **Python 3.11**
 - `statsmodels`, `jax`, `jax.numpy`
 - `tensorflow`, `keras`, `matplotlib`, `pandas`, `numpy`, `scikit-learn`
 
@@ -67,30 +67,9 @@ A hybrid time series modeling project exploring **statistical** and **deep learn
 
 ---
 
-## 🖼️ Visualizations
-
-Forecast results with **90% HPDI intervals** (SARIMA):
-
-<p align="center">
-  <img src="images/sarima_forecast.png" width="600"/>
-</p>
-
-LSTM single-step prediction examples:
-
-<p align="center">
-  <img src="images/lstm_forecast.png" width="600"/>
-</p>
-
----
-
 ## 🚀 Future Work
 
 - Multi-step forecasting with LSTM and Transformer-based models.
 - Expand to multivariate modeling using all available features.
 - Deploy as a real-time forecasting dashboard (Streamlit/Gradio).
 - Integrate hyperparameter tuning frameworks (Optuna/Hyperopt).
-
----
-
-## 📁 Repository Structure
-
