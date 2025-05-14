@@ -1,4 +1,4 @@
-# 🌱 Climate Forecasting with SARIMA and LSTM on the Jena Weather Dataset
+# 🌱 Greensight - A Climate Change Modeler
 
 A hybrid time series modeling project exploring **statistical** and **deep learning** methods to forecast environmental variables such as temperature using the [Jena Climate Dataset](https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip). The project compares **SARIMA** (Seasonal AutoRegressive Integrated Moving Average) with **LSTM** (Long Short-Term Memory) networks to evaluate performance, interpretability, and computational efficiency.
 
