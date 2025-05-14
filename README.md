@@ -4,18 +4,6 @@
 
 This repository contains the code and resources for the Climate Change Predictor Using Time Series Forecasting project. This project aims to predict future climate trends, including temperature and rainfall, using time series forecasting techniques. The project leverages a Seasonal ARIMA (SARIMA) model enhanced with the JAX library for improved performance and efficiency.
 
-## Submitted by:
-
-1. Aryan Tandon - 19BAI10148
-2. Uday Agarwal - 19BAI10147
-3. Abdul Raziq Khan - 19BCE10135
-4. Parv Bhargava - 19BAI10116
-5. Aabir Datta - 19BCE10062
-6. Vimal Tiwari - 19BCG10054
-7. Govit Khasare - 19MIM10094
-8. Mriganka Shekhar Das - 19BOE10053
-
-
 ## Motivation & Objective
 
 Climate change poses significant threats and challenges globally. By understanding and predicting climate patterns, we can better prepare and mitigate the impacts of extreme weather events. This project aims to:
