@@ -28,7 +28,6 @@ A hybrid time series modeling project exploring **statistical** and **deep learn
 - Built using `statsmodels` and accelerated with `jax.numpy`.
 - Automatically selects optimal lag order based on autocorrelation analysis.
 - Captures seasonality using SARIMA's `(p, d, q)(P, D, Q, s)` hyperparameters.
-- 9× faster evaluation using **JAX** compared to NumPy backend.
 
 ### 2. **LSTM (Neural Network)**
 - Implemented in TensorFlow/Keras.
